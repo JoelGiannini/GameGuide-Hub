@@ -10,8 +10,7 @@ Podés ver la demostración en video de la aplicación en funcionamiento directa
 
 👉 **[Ver demostración en video (preview_app.mp4)](./preview_app.mp4)**
 
-<video src="preview_app.mp4)" controls="controls" style="max-width: 100%;">
-</video>
+![](preview_app.mp4)
 
 ---
 
