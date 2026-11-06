@@ -8,10 +8,7 @@ Plataforma web colaborativa desarrollada en **Django** diseñada para la gestió
 
 Podés ver la demostración en video de la aplicación en funcionamiento directamente desde el repositorio:
 
-👉 **[Ver demostración en video (preview_app.mp4)](./preview_app.mp4)**
-
-<video src="https://github.com/JoelGiannini/GameGuide-Hub/raw/refs/heads/main/preview_app.mp4" controls="controls" style="max-width: 100%;">
-</video>
+👉 **[Descargar demostración de la app funcionando en video (preview_app.mp4)](./preview_app.mp4)**
 
 ---
 
