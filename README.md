@@ -1,10 +1,6 @@
 # 🎮 GameGuide Hub
 
-<<<<<<< HEAD
 Plataforma web colaborativa desarrollada en **Django** diseñada para la gestión integral de catálogos de videojuegos, plataformas y guías de juego comunitarias.
-=======
-Plataforma web colaborativa desarrollada en **Django** diseñada para la gestión integral de catálogos de videojuegos, plataformas y guías de juego comunitarias. Este proyecto se estructura en una arquitectura  modular en múltiples aplicaciones reutilizables.
->>>>>>> c23d2b1bcf7102acb11570a8f7abb1d7282ffe17
 
 ---
 
@@ -13,8 +9,6 @@ Plataforma web colaborativa desarrollada en **Django** diseñada para la gestió
 Podés ver la demostración en video de la aplicación en funcionamiento directamente desde el repositorio:
 
 👉 **[Ver demostración en video (preview_app.mp4)](./preview_app.mp4)**
-
-*(Al hacer clic en el enlace se abrirá el reproductor nativo de GitHub para visualizar la prueba de navegación, el panel de administración y los contenidos cargados).*
 
 ---
 
