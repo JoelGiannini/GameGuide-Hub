@@ -14,8 +14,6 @@ Podés ver la demostración en video de la aplicación en funcionamiento directa
 
 ## 🏛️ Estructura del Proyecto y Requisitos Técnicos
 
-El proyecto cumple ampliamente con el requisito de contar con **al menos 8 aplicaciones**, integrando las **6 aplicaciones nativas de Django** junto a **4 aplicaciones customizadas**:
-
 ### Aplicaciones Customizadas:
 1. **`core`**: Vistas generales del sitio, landing page, páginas estáticas y enrutamiento principal.
 2. **`catalog`**: Gestión del catálogo de plataformas de videojuegos y títulos disponibles.
