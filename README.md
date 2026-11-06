@@ -32,14 +32,6 @@ El proyecto cumple ampliamente con el requisito de contar con **al menos 8 aplic
 
 ---
 
-## 📋 Cumplimiento de Requisitos del Examen Final
-
-* **Formulario interactivo:** Aplicación `interaction` con validación y renderizado en plantilla.
-* **URLs y Plantillas:** Más de 5 rutas independientes con plantillas HTML diferenciadas.
-* **Base de Datos de Ejemplo:** Incluida en la raíz como `db.sqlite3` con datos precargados.
-
----
-
 ## 🚀 Guía de Instalación y Ejecución Local
 
 Para levantar y probar el proyecto en tu entorno local:
