@@ -1,6 +1,12 @@
 # 🎮 GameGuide Hub
 
-Plataforma web colaborativa desarrollada en **Django** diseñada para la gestión integral de catálogos de videojuegos, plataformas y guías de juego comunitarias.
+GameGuide Hub es una plataforma web colaborativa desarrollada sobre Django que centraliza la gestión y consulta de catálogos de videojuegos, plataformas y guías de juego detalladas.
+
+Para mantener una arquitectura limpia y ordenada, el proyecto está estructurado de forma modular con aplicaciones enfocadas en la administración de catálogos, plataformas, guías e interacción con los usuarios a través de formularios. El sistema incluye además el panel de administración de Django y una base de datos SQLite precargada con datos de prueba listos para testear la aplicación.
+
+## Objetivos de la aplicación:
+
+El objetivo principal de GameGuide Hub es brindar una herramienta accesible donde los usuarios puedan consultar y compartir guías o tutoriales de videojuegos de forma sencilla.
 
 ---
 
