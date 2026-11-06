@@ -10,6 +10,10 @@ Podés ver la demostración en video de la aplicación en funcionamiento directa
 
 👉 **[Ver demostración en video (preview_app.mp4)](./preview_app.mp4)**
 
+<p align="center" width="100%">
+  <video src="preview_app.mp4" width="80%" controls></video>
+</p>
+
 ---
 
 ## 🏛️ Estructura del Proyecto y Requisitos Técnicos
