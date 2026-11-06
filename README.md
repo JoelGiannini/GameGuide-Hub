@@ -45,11 +45,7 @@ cd GameGuide-Hub
 ### 2. Crear y activar el entorno virtual
 ```bash
 python3 -m venv venv
-<<<<<<< HEAD
-source venv/bin/activate  # En Windows: venv\Scripts\activate
-=======
 source venv/bin/activate 
->>>>>>> c23d2b1bcf7102acb11570a8f7abb1d7282ffe17
 ```
 
 ### 3. Instalar dependencias
