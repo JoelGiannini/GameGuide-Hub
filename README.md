@@ -1,6 +1,6 @@
 # 🎮 GameGuide Hub
 
-Plataforma web colaborativa desarrollada en **Django** diseñada para la gestión integral de catálogos de videojuegos, plataformas y guías de juego comunitarias. Este proyecto cumple con los requisitos del trabajo práctico final, estructurando la arquitectura de manera modular en múltiples aplicaciones reutilizables.
+Plataforma web colaborativa desarrollada en **Django** diseñada para la gestión integral de catálogos de videojuegos, plataformas y guías de juego comunitarias. Este proyecto se estructura en una arquitectura  modular en múltiples aplicaciones reutilizables.
 
 ---
 
@@ -38,7 +38,7 @@ cd GameGuide-Hub
 ### 2. Crear y activar el entorno virtual
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # En Windows usar: venv\Scripts\activate
+source venv/bin/activate 
 ```
 
 ### 3. Instalar las dependencias
